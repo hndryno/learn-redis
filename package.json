@@ -1,0 +1,22 @@
+{
+  "name": "redis_training",
+  "version": "1.0.0",
+  "description": "my redis training",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "hendriyono",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
